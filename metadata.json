@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A beautiful classic calculator with a secure hidden private vault to store notes, contacts, and password credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
